@@ -1,0 +1,21 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gungun",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.7",
+    "nodemon": "^1.14.9",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
